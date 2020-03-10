@@ -1,0 +1,7 @@
+/lib
+/build
+/bkp
+/Analysis
+*.root
+MarlinStdRecoParsed.xml
+MarlinStdRecoRefitTrkPar.xml
